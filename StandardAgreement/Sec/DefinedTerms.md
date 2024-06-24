@@ -2,7 +2,7 @@ Agreement=<a class='definedterm' href='{!!!}DefT.Agreement'>Agreement</a>
 
 Client_Content=<a class='definedterm' href='{!!!}DefT.Client_Content'>Client Content</a>
 
-Client_Delay=<a class='definedterm' href='{!!!}DefT.Client_Delay'>Client_Delay</a>
+Client_Delay=<a class='definedterm' href='{!!!}DefT.Client_Delay'>Client Delay</a>
 
 Confidential_Information=<a class='definedterm' href='{!!!}DefT.Confidential_Information'>Confidential Information</a>
 
