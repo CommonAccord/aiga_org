@@ -16,5 +16,11 @@ Law.State=California
 
 Forum.cl=the county of San Francisco, California
 
+Note=Additional Parameters:
+
+Charge.Overdue.MonthlyInterest.percent=1.5 percent
+
+TestByClient.Within.businessDays=five (5) business days
+
 =[G/AIGA_Org/StandardAgreement/BasicTerms/0.md]
 
