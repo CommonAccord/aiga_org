@@ -42,3 +42,27 @@ Trademarks=<a class='definedterm' href='{!!!}DefT.Trademarks'>Trademarks</a>
 
 Working_Files=<a class='definedterm' href='{!!!}DefT.Working_Files'>Working Files</a>
 
+Work_Product=<a class='definedterm' href='{!!!}DefT.Work_Product'>Work Product</a>
+
+Note=From Environmental Schedule
+ 
+ADA=<a class='definedterm' href='{!!!}DefT.ADA'>ADA</a>
+
+Engineering=<a class='definedterm' href='{!!!}DefT.Engineering'>Engineering</a>
+
+Implementation=<a class='definedterm' href='{!!!}DefT.Implementation'>Implementation</a>
+
+
+Note=From Motion-Specific Schedule
+
+Trade_Secrets=<a class='definedterm' href='{!!!}DefT.Trade_Secrets'>Trade Secrets</a>
+
+Designer’s_personnel=<a class='definedterm' href='{!!!}DefT.Designer’s_personnel'>Designer’s personnel</a>
+
+Support_Services=<a class='definedterm' href='{!!!}DefT.Support_Services'>Support Services</a>
+
+Maintenance_Period=<a class='definedterm' href='{!!!}DefT.Maintenance_Period'>Maintenance Period</a>
+
+Deficiency=<a class='definedterm' href='{!!!}DefT.Deficiency'>Deficiency</a>
+
+Warranty_Period=<a class='definedterm' href='{!!!}DefT.Warranty_Period'>Warranty Period</a>
