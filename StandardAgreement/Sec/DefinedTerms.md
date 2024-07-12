@@ -1,5 +1,7 @@
 Agreement=<a class='definedterm' href='{!!!}DefT.Agreement'>Agreement</a>
 
+Client=<a class='definedterm' href='{!!!}DefT.Client'>Client</a>
+
 Client_Content=<a class='definedterm' href='{!!!}DefT.Client_Content'>Client Content</a>
 
 Client_Delay=<a class='definedterm' href='{!!!}DefT.Client_Delay'>Client Delay</a>
@@ -8,21 +10,27 @@ Confidential_Information=<a class='definedterm' href='{!!!}DefT.Confidential_Inf
 
 Copyrights=<a class='definedterm' href='{!!!}DefT.Copyrights'>Copyrights</a>
 
-Deliverable=<a class='definedterm' href='{!!!}DefT.Deliverable'>Deliverable</a>
+Deliverable=<a class='definedterm' href='{!!!}DefT.Deliverables'>Deliverable</a>
 
 Deliverables=<a class='definedterm' href='{!!!}DefT.Deliverables'>Deliverables</a>
 
 Deliverables=<a class='definedterm' href='{!!!}DefT.Deliverables'>Deliverables</a>
 
-Design_Agent=<a class='definedterm' href='{!!!}DefT.Design_Agent'>Design Agent</a>
+Design_Agent=<a class='definedterm' href='{!!!}DefT.Design_Agents'>Design Agent</a>
 
 Design_Agents=<a class='definedterm' href='{!!!}DefT.Design_Agents'>Design Agents</a>
 
+Note=Perhaps an error.  "Designer Agent" is used as if it is a defined term, but it is not defined in the document.  The defined term is "Design Agent".  Have parameterized it to link to "Design Agent".
+
+Designer_Agent=<a class='definedterm' href='{!!!}DefT.Design_Agents'>Designer Agent</a>
+
+Designer_Agents=<a class='definedterm' href='{!!!}DefT.Design_Agents'>Designer Agents</a>
+
 Designer_Tools=<a class='definedterm' href='{!!!}DefT.Designer_Tools'>Designer Tools</a>
 
-Final_Deliverables=<a class='definedterm' href='{!!!}DefT.Final_Deliverables'>Final Deliverables</a>
+Designer=<a class='definedterm' href='{!!!}DefT.Designer'>Designer</a>
 
-Final_Works=<a class='definedterm' href='{!!!}DefT.Final_Works'>Final Works</a>
+Final_Deliverables=<a class='definedterm' href='{!!!}DefT.Final_Deliverables'>Final Deliverables</a>
 
 Final_Works=<a class='definedterm' href='{!!!}DefT.Final_Works'>Final Works</a>
 
@@ -66,3 +74,5 @@ Maintenance_Period=<a class='definedterm' href='{!!!}DefT.Maintenance_Period'>Ma
 Deficiency=<a class='definedterm' href='{!!!}DefT.Deficiency'>Deficiency</a>
 
 Warranty_Period=<a class='definedterm' href='{!!!}DefT.Warranty_Period'>Warranty Period</a>
+
+Mature_Content=<a class='definedterm' href='{!!!}DefT.Mature_Content'>Mature Content</a>
